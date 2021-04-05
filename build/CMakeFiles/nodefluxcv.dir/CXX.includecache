@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/novian/Documents/personalstuff/nodeflux_cv/src/main.cpp
+iostream
+-
+stdio.h
+-
+boost/asio.hpp
+-
+asio.hpp
+-
+asio/ts/internet.hpp
+-
+asio/ts/buffer.hpp
+-
+opencv2/opencv.hpp
+-
+

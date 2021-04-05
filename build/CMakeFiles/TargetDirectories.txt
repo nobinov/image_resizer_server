@@ -1,0 +1,5 @@
+/home/novian/Documents/personalstuff/nodeflux_cv/build/CMakeFiles/rebuild_cache.dir
+/home/novian/Documents/personalstuff/nodeflux_cv/build/CMakeFiles/edit_cache.dir
+/home/novian/Documents/personalstuff/nodeflux_cv/build/CMakeFiles/server.dir
+/home/novian/Documents/personalstuff/nodeflux_cv/build/CMakeFiles/client.dir
+/home/novian/Documents/personalstuff/nodeflux_cv/build/CMakeFiles/resizer_test.dir

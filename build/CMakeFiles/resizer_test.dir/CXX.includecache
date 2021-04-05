@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/novian/Documents/personalstuff/nodeflux_cv/src/resizer_test.cpp
+iostream
+-
+stdio.h
+-
+opencv2/opencv.hpp
+-
+
